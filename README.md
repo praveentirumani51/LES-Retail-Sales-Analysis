@@ -33,7 +33,16 @@ Since the dataset is small, a **summary report with visuals** was created instea
 ##  Future Improvements
 - Scale the analysis with more customer data  
 - Build an **interactive Power BI/Tableau dashboard** for drill-down insights  
-- Add **time-series analysis** for tracking sales trends over weeks/months  
+- Add **time-series analysis** for tracking sales trends over weeks/months
+
+
+---
+
+Project Files
+-  [Final Report (PDF)](look for add file section)
+- [Full Excel Dataset (Google Drive)](https://docs.google.com/spreadsheets/d/1c1-pXM8brTGkJjF5tQxJYqkIRZQaEWja/edit?usp=drive_link&ouid=115259981734726290567&rtpof=true&sd=true)
+
+👉 Replace YOUR_GOOGLE_DRIVE_LINK_HERE with your shareable Google Drive link.
 
 ---
 

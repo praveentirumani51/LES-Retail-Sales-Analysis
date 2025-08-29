@@ -1,6 +1,6 @@
 
 # LES Retail Sales Analysis (Excel + SQL)
-
+LES Retail Sales Analysis – Analyzed a dataset of 50 customers using Excel and SQL to uncover insights on sales performance, customer behavior, and product trends. Identified top customers, high-ARPU cities, and best-selling products, showing how even small datasets can provide valuable business insights.
 ##  Project Overview
 This project analyzes a **sample dataset of 50 customers** from LES Retail to generate insights on **sales performance, customer behavior, and product trends**.  
 Since the dataset is small, a **summary report with visuals** was created instead of a full dashboard.

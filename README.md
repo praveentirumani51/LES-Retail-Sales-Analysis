@@ -42,7 +42,6 @@ Project Files
 -  [Final Report (PDF)](look for add file section)
 - [Full Excel Dataset (Google Drive)](https://docs.google.com/spreadsheets/d/1c1-pXM8brTGkJjF5tQxJYqkIRZQaEWja/edit?usp=drive_link&ouid=115259981734726290567&rtpof=true&sd=true)
 
-👉 Replace YOUR_GOOGLE_DRIVE_LINK_HERE with your shareable Google Drive link.
 
 ---
 
